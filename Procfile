@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/bqplot_2.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/dash_indices_previsao_voila_plotly.ipynb
