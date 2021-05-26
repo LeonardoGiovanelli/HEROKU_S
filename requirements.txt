@@ -1,3 +1,4 @@
 voila
 voila-material
 bqplot
+plotly
